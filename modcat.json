@@ -21,7 +21,7 @@
     {
         "name": "last_review_date",
         "description": "date of last module review",
-        "value":  "2017-09-23"
+        "value":  "2017-10-20"
     },
     {
         "name": "is_deprecated",
