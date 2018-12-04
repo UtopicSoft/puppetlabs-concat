@@ -37,5 +37,10 @@
         "name": "is_baseline",
         "description": "Property unknown to MC: is module part of a baseline?",
         "value": true
+    },
+    {
+        "name": "note",
+        "description": "Additional information",
+        "value": "Please use this module for all postgresql installations"
     }
 ]
